@@ -1,0 +1,57 @@
+.backlink-wrapper{
+    border: 1px solid #ccc!important;
+    padding: 10px 10px 10px 10px;
+    border-radius: 20px;
+        max-width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 10px;
+        padding-right: 10px;
+        
+  background-color: #f0f1f3;
+      
+}
+
+.link-box-component{
+    margin-top: 80px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: #0066cc;
+    border-radius: 3px;
+    font-size: 30px;
+}
+.button-label{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.input-button{
+    background-color: #fff;
+    border: 1px solid #3a839a;
+    border-radius: 5px;
+    box-shadow: 0 0 0 4px #f0fbff;
+    box-sizing: border-box;
+    color: #111;
+    padding: 10px 20px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.button{
+    width: 100% !important;
+    display: block;
+    background-color: #2196F3 !important;
+    overflow: hidden;
+    font-size: 20px;
+    outline: none;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgb(0 0 0 / 60%);
+    padding: 25px 0 25px 0;
+    color: #FFF;
+    margin-bottom: 5px;
+    transition: background-color .3s;
+}

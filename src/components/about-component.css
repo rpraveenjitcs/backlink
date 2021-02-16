@@ -1,0 +1,14 @@
+.about-title{
+        margin-bottom: 20px;
+        color: #2196F3 !important;
+        font-weight: 500;
+        font-size: 30px;
+}
+
+.about-content {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}

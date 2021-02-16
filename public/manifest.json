@@ -1,0 +1,11 @@
+{
+  "short_name": "Page one ProfitsReact App",
+  "name": "Page one Profits",
+  "icons": [
+    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
